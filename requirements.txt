@@ -4,7 +4,7 @@ enum34==1.1.6
 packaging==16.8
 parse==1.8.0
 parse-type==0.3.4
-py==1.4.32
+py==1.10.0
 pyparsing==2.2.0
 pytest==3.0.6
 selenium==3.3.0
